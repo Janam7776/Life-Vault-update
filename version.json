@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "build_number": 3,
-  "force_update": false,
+  "version": "1.0.0",
+  "build_number": 1,
+  "force_update": true,
   "changelog": "• Bug fixes & improvements\n• Performance enhancements\n• New features",
   "download_url": "https://github.com/Janam7776/Life-Vault-update/releases/download/Latest/Life-Vault-Latest.apk"
 }
